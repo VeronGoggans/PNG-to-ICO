@@ -25,4 +25,6 @@ def png_to_ico(self):
                 print(e)
         else:
             print('Please select a PNG file.')
+
+png_to_ico()
 ```
