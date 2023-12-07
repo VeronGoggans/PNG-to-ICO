@@ -1,1 +1,1 @@
-# PNG-to-ICO
+# PNG To ICO
